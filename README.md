@@ -1,4 +1,4 @@
-# Book
+# CRUD book database
 Simple CRUD project to be used with a sql table.
 
 
